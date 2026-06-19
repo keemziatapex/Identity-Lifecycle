@@ -2,7 +2,7 @@
 ![image alt](https://github.com/keemziatapex/Identity-Lifecycle/blob/56056c88aff2146d9cadf25548c86159ff6be54d/Screenshot%202026-06-19%20035855.png)
 </p>
 <h1>Identity Lifecycle Management - Joiner, Mover, Leaver (Azure)</h1>
-This project outlines the process of Identity Lifecycle of user accounts; Joiner, Mover,
+This Lab outlines the process of Identity Lifecycle of user accounts; Joiner, Mover,
 Leaver in Entra ID.<br />
 <h2>Environments and Technologies Used</h2>
 - Microsoft Azure Entra ID
