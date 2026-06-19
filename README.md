@@ -29,7 +29,7 @@ User that has transfered to another department in organization. Went from ADMIN 
 <h2>Leaver</h2>
 
 ![image alt](https://github.com/keemziatapex/Identity-Lifecycle/blob/81804d769c1c7fa65ae7fc6b3baac6d60be3877b/Screenshot%202026-06-19%20044642.png)
-![image alt]()
+![image alt](https://github.com/keemziatapex/Identity-Lifecycle/blob/9858b45f64f74a59c0348f905b93eb3951ef28df/Screenshot%202026-06-19%20044834.png)
 ![image alt]()
 </p>
 <p>
