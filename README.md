@@ -17,8 +17,8 @@ User that have Joined organization.
 </p>
 <br />
 <h2>Mover</h2>
-<p>
-<img width="999" height="764" alt="image" src="https://github.com/userattachments/assets/425ff6e0-6bf2-467a-9de5-7f9f6b64e188" />
+
+![image alt](https://github.com/keemziatapex/Identity-Lifecycle/blob/b42df39ea394b3076914c382f72bd739443aafb8/Screenshot%202026-06-19%20041432.png)
 <p>
 <img width="1024" height="759" alt="image" src="https://github.com/userattachments/assets/c97eaf5f-77f7-4591-9b7f-39647833afe8" />
 </p>
