@@ -27,8 +27,10 @@ User that has transfered to another department in organization. Went from ADMIN 
 </p>
 <br />
 <h2>Leaver</h2>
-<p>
-<img width="1918" height="740" alt="image" src="https://github.com/userattachments/assets/db4ab28a-097b-4861-b38a-033efc63a127" />
+
+![image alt](https://github.com/keemziatapex/Identity-Lifecycle/blob/81804d769c1c7fa65ae7fc6b3baac6d60be3877b/Screenshot%202026-06-19%20044642.png)
+![image alt]()
+![image alt]()
 </p>
 <p>
 User that has left the organization.
