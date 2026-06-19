@@ -19,11 +19,11 @@ User that have Joined organization.
 <h2>Mover</h2>
 
 ![image alt](https://github.com/keemziatapex/Identity-Lifecycle/blob/b42df39ea394b3076914c382f72bd739443aafb8/Screenshot%202026-06-19%20041432.png)
-<p>
-<img width="1024" height="759" alt="image" src="https://github.com/userattachments/assets/c97eaf5f-77f7-4591-9b7f-39647833afe8" />
+
+![image alt](https://github.com/keemziatapex/Identity-Lifecycle/blob/7c0b549bffb92ce53a494550d6697a1a23241961/Screenshot%202026-06-19%20041714.png)
 </p>
 <p>
-User that has transfered to another department in organization. Went from IT to HR.
+User that has transfered to another department in organization. Went from ADMIN to IT.
 </p>
 <br />
 <h2>Leaver</h2>
