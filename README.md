@@ -13,7 +13,7 @@ Leaver in Entra ID.<br />
 ![image alt](https://github.com/keemziatapex/Identity-Lifecycle/blob/ab6524e629521589b23bdc9825bba88308915f86/Screenshot%202026-06-19%20032504.png)
 </p>
 <p>
-Users that have Joined organization.
+User that have Joined organization.
 </p>
 <br />
 <h2>Mover</h2>
