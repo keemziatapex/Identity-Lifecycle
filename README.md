@@ -1,5 +1,5 @@
 # Identity Lifecycle Management in Microsoft Azure's Entra ID <p align="center">
-<img width="600" height="400" alt="image" src="https://github.com/userattachments/assets/14806b36-bc52-44a8-a825-615241d884e0" />
+![image alt](https://github.com/keemziatapex/Identity-Lifecycle/blob/56056c88aff2146d9cadf25548c86159ff6be54d/Screenshot%202026-06-19%20035855.png)
 </p>
 <h1>Identity Lifecycle Management - Joiner, Mover, Leaver (Azure)</h1>
 This tutorial outlines the process of Identity Lifecycle of user accounts; Joiner, Mover,
